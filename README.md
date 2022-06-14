@@ -6,3 +6,4 @@ An privacy adapter to use WhatsApp with local encryption
 |pip Package|Download|
 | --- | --- |
 |selenium| pip install selenium|
+|pgpy| pip install pgpy|
