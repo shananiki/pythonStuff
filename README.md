@@ -11,4 +11,4 @@ An privacy adapter to use WhatsApp with local encryption
 |pgpy| pip install pgpy|
 
 ## GeckoDrier
-[GeckoDriver Firefox (x64)](https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip)
+* [GeckoDriver Firefox (x64)](https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip)
